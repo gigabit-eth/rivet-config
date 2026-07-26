@@ -1,0 +1,22 @@
+{
+  "chainId": 31337,
+  "startBlock": 2,
+  "contracts": {
+    "PoolManager": "0xa4168e301ef81b9767af1464b10641f790822a54",
+    "MockERC20": "0xbb4cc593c6423233c0928e629461888b55b2d1e8",
+    "FeeRouter": "0xd48ec6d959343b0a14102c421a8bc6f5b857f029",
+    "RivetFactory": "0xb62072bce9f61ba49b415ad0192d4f083a977dde",
+    "RisingFloorHook": "0x3d204342d5de55cb4f6942487e3acc4c4ef1ea80",
+    "StakingRewards": "0x2f2658ec5ab117e984e38ee8b26a19e95fb1cebf",
+    "SwapRouter": "0x0daf814500e3a573a8c2708edd9cdcd9c83a0d0d",
+    "MockPriceFeed": "0xb2d283ca59c0aea7b231dadea88831465258221d",
+    "Basket": "0xf72d36bb74a28f0e7b8374cd45afdee790bfd0cd",
+    "MockSwapRouterV3": "0x3c5dd2278ec2571af476e553bd244d58a69a21a4",
+    "BasketFactory": "0xfd6d9ff5735c81b6275f94d2c8806d3c73f610a0",
+    "MockWETH": "0x7121bef634c187c5a240970c4413d12f6d2976dc",
+    "BasketRewardsAdapter": "0xe721a17e8e529a8606e3262c1e384fd5d7c81b45",
+    "BasketCreation": "0x72f63d100551cce63c7b2b1391b73043c8b11499",
+    "BondingCurve": "0x839cae2252bf135dfcc65a2ad3d99f00628d8dee",
+    "StakingToken": "0xbb4cc593c6423233c0928e629461888b55b2d1e8"
+  }
+}
