@@ -7,7 +7,7 @@ export const robinhoodMainnet: NetworkConfig = {
   shortName: 'mainnet',
   nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
   rpc: {
-    public: 'https://robinhood-mainnet.g.alchemy.com/v2/alch_BLEMlhuavUTqapaKKeF-O',
+    public: 'https://rpc.mainnet.chain.robinhood.com',
   },
   infra: {
     supabaseUrl: 'https://fkrywwkfigabsjospjdq.supabase.co',

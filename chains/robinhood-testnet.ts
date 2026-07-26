@@ -7,7 +7,7 @@ export const robinhoodTestnet: NetworkConfig = {
   shortName: 'testnet',
   nativeCurrency: { name: 'Robinhood ETH', symbol: 'ETH', decimals: 18 },
   rpc: {
-    public: 'https://robinhood-testnet.g.alchemy.com/v2/alch_BLEMlhuavUTqapaKKeF-O',
+    public: 'https://rpc.testnet.chain.robinhood.com',
   },
   explorer: {
     name: 'Explorer',
