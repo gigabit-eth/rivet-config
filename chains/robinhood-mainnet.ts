@@ -10,10 +10,10 @@ export const robinhoodMainnet: NetworkConfig = {
     public: 'https://rpc.mainnet.chain.robinhood.com',
   },
   infra: {
-    supabaseUrl: 'https://fkrywwkfigabsjospjdq.supabase.co',
-    supabaseAnonKey: 'sb_publishable_lLNQYos8GNNC-LlBx_Aj1g_KyxAEzJ_',
+    supabaseUrl: 'https://YOUR_SUPABASE_PROJECT.supabase.co',
+    supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY',
     indexerSchema: 'indexer_prod',
-    apiUrl: 'https://rivet-api-production-e8d4.up.railway.app', // Placeholder
+    apiUrl: 'https://api.yourdomain.com', // Override with env vars
   },
   deployment: deployment as any,
 };
