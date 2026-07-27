@@ -21,8 +21,8 @@ export interface NetworkConfig {
     url: string;
   };
   infra: {
-    supabaseUrl: string;
-    supabaseAnonKey: string;
+    supabaseUrl?: string;
+    supabaseAnonKey?: string;
     indexerSchema: string;
     apiUrl: string;
   };

@@ -15,9 +15,7 @@ export const robinhoodTestnet: NetworkConfig = {
   },
   infra: {
     // These defaults will be used unless overridden via env vars.
-    supabaseUrl: 'https://YOUR_SUPABASE_PROJECT.supabase.co',
-    supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY',
-    indexerSchema: 'ponder',
+    indexerSchema: 'testnet_indexer',
     apiUrl: 'https://api.yourdomain.com', // Override with env vars
   },
   deployment: deployment as any,

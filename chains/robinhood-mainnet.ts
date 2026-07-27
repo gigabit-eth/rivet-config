@@ -10,9 +10,7 @@ export const robinhoodMainnet: NetworkConfig = {
     public: 'https://rpc.mainnet.chain.robinhood.com',
   },
   infra: {
-    supabaseUrl: 'https://YOUR_SUPABASE_PROJECT.supabase.co',
-    supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY',
-    indexerSchema: 'indexer_prod',
+    indexerSchema: 'mainnet_indexer',
     apiUrl: 'https://api.yourdomain.com', // Override with env vars
   },
   deployment: deployment as any,
