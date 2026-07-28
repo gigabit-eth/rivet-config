@@ -10,9 +10,12 @@
     "SwapRouter": "0x212f4a665b584cdeb6495a6146ed54a562636515",
     "MockPriceFeed": "0x0daf814500e3a573a8c2708edd9cdcd9c83a0d0d",
     "Basket": "0xb2d283ca59c0aea7b231dadea88831465258221d",
-    "BasketFactory": "0xf72d36bb74a28f0e7b8374cd45afdee790bfd0cd",
-    "BasketRewardsAdapter": "0x3c5dd2278ec2571af476e553bd244d58a69a21a4",
-    "BasketCreation": "0x7121bef634c187c5a240970c4413d12f6d2976dc",
+    "MockSwapRouterV3": "0xf72d36bb74a28f0e7b8374cd45afdee790bfd0cd",
+    "BasketFactory": "0x3c5dd2278ec2571af476e553bd244d58a69a21a4",
+    "BasketRewardsAdapter": "0xfd6d9ff5735c81b6275f94d2c8806d3c73f610a0",
+    "BasketCreation": "0xe721a17e8e529a8606e3262c1e384fd5d7c81b45",
+    "EthBasketCreation": "0x0f46bd2f821fc19007973ccaa95de6c7e370a9a1",
+    "SeasonAllocator": "0x72f63d100551cce63c7b2b1391b73043c8b11499",
     "BondingCurve": "0x729a56f09e88acc72d76fbed3dc58583b914bdf3",
     "StakingToken": "0xa4168e301ef81b9767af1464b10641f790822a54"
   }
