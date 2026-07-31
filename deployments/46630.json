@@ -1,13 +1,12 @@
 {
   "chainId": 46630,
-  "startBlock": 94146203,
+  "startBlock": 95511795,
   "contracts": {
-    "FeeRouter": "0x2e479286ebf40c3f27f0a82ad8a899c01f97b594",
-    "RivetFactory": "0x6e245be65baa1283d354e63c3d29ae4923795741",
-    "RisingFloorHook": "0x917e7e8a56099d1f365c9039986686e1151a6a80",
-    "StakingRewards": "0xdfa5cf2031183f082864bec4a55bcca508c98c90",
-    "SwapRouter": "0x71211f600ecf57d5d967631edd4e3735df001231",
-    "BondingCurve": "0x849333d6829cfea9f9651d41040ef77b8765dd19",
+    "TreasuryManager": "0xba5f2f04f789ca87eeeb0511364b0d560e73cf2d",
+    "RivetExchangeFactory": "0x6c854d6b0aff1a259399ce64845246bfa5c5143c",
+    "RivetExchangeFloor": "0x151a10cb1b361c64e78cb470af953d54e3a2aa80",
+    "SwapRouter": "0x79a719ddcf99fdca1df043f72c4190e6e55bbdb1",
+    "BondingCurve": "",
     "StakingToken": "0xabe8941a935acb9560a3c52ea75dd6256df4ce58"
   }
 }
