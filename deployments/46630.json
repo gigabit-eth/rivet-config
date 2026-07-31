@@ -6,7 +6,7 @@
     "RivetExchangeFactory": "0x6c854d6b0aff1a259399ce64845246bfa5c5143c",
     "RivetExchangeFloor": "0x151a10cb1b361c64e78cb470af953d54e3a2aa80",
     "SwapRouter": "0x79a719ddcf99fdca1df043f72c4190e6e55bbdb1",
-    "BondingCurve": "",
+    "RivetExchangeBonding": "0xe5ad49d4abf7034518d7fb60ae910730922b463e",
     "StakingToken": "0xabe8941a935acb9560a3c52ea75dd6256df4ce58"
   }
 }
