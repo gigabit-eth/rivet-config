@@ -4,8 +4,8 @@
   "contracts": {
     "RivetToken": "0x34fdff2fa4cb576df4899e2134f443d6a05dddd1",
     "FeeRouter": "0x6e7dd851079081c42bdc8bbfe819ec90dc9bd386",
-    "RivetFactory": "0x38550658399e9e32e720d5d50601608e8a6c27c3",
-    "RisingFloorHook": "0x015be2623f9b720a72a81108256d27195155ea80",
+    "RivetExchangeFactory": "0x38550658399e9e32e720d5d50601608e8a6c27c3",
+    "RivetExchangeFloor": "0x015be2623f9b720a72a81108256d27195155ea80",
     "StakingRewards": "0x6380e68b2fb99c1027c6556f8a910783503c87b9",
     "SwapRouter": "0x1613db3c84f68afcd9e83ee101fe987ef580aab3",
     "ChainlinkUptimeStub": "0x504e1da9bfd7aebecfc6287ff673c715df382633",
@@ -13,7 +13,7 @@
     "BasketFactory": "0xa74bf6e0914173253a5f12cbfe60010a79adae79",
     "BasketRewardsAdapter": "0x49605337e78c5141d3b45ea93a64566eb40f4675",
     "BasketCreation": "0x74cce1a4052c4e46a8ce8dd8c311b89dbe88e9e0",
-    "BondingCurve": "0xd53c063533a1c55ef51a047918afefb6e07b956d",
+    "RivetExchangeBonding": "0xd53c063533a1c55ef51a047918afefb6e07b956d",
     "StakingToken": "0x34fdff2fa4cb576df4899e2134f443d6a05dddd1"
   }
 }
