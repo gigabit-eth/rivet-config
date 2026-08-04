@@ -7,6 +7,7 @@
     "RivetExchangeFloor": "0x151a10cb1b361c64e78cb470af953d54e3a2aa80",
     "SwapRouter": "0x79a719ddcf99fdca1df043f72c4190e6e55bbdb1",
     "RivetExchangeBonding": "0xe5ad49d4abf7034518d7fb60ae910730922b463e",
-    "StakingToken": "0xabe8941a935acb9560a3c52ea75dd6256df4ce58"
+    "StakingToken": "0xabe8941a935acb9560a3c52ea75dd6256df4ce58",
+    "PoolManager": "0x88fe87aa5f54ab818dfdb3a9ecaac30edd6a78c9"
   }
 }
