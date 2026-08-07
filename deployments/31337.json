@@ -1,22 +1,14 @@
 {
   "chainId": 31337,
-  "startBlock": 2,
+  "startBlock": 11,
   "contracts": {
-    "RivetToken": "0xa4168e301ef81b9767af1464b10641f790822a54",
-    "FeeRouter": "0xbb4cc593c6423233c0928e629461888b55b2d1e8",
-    "RivetFactory": "0xd48ec6d959343b0a14102c421a8bc6f5b857f029",
-    "RisingFloorHook": "0x0dc277698146549216d983c82a092c45b5a86a80",
-    "StakingRewards": "0xa527cec6d9790af0c52408a3398bd8eaae634063",
-    "SwapRouter": "0x212f4a665b584cdeb6495a6146ed54a562636515",
-    "MockPriceFeed": "0x0daf814500e3a573a8c2708edd9cdcd9c83a0d0d",
-    "Basket": "0xb2d283ca59c0aea7b231dadea88831465258221d",
-    "MockSwapRouterV3": "0xf72d36bb74a28f0e7b8374cd45afdee790bfd0cd",
-    "BasketFactory": "0x3c5dd2278ec2571af476e553bd244d58a69a21a4",
-    "BasketRewardsAdapter": "0xfd6d9ff5735c81b6275f94d2c8806d3c73f610a0",
-    "BasketCreation": "0xe721a17e8e529a8606e3262c1e384fd5d7c81b45",
-    "EthBasketCreation": "0x0f46bd2f821fc19007973ccaa95de6c7e370a9a1",
-    "SeasonAllocator": "0x72f63d100551cce63c7b2b1391b73043c8b11499",
-    "BondingCurve": "0x729a56f09e88acc72d76fbed3dc58583b914bdf3",
-    "StakingToken": "0xa4168e301ef81b9767af1464b10641f790822a54"
+    "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99",
+    "FeeRouter": "0x2e479286ebf40c3f27f0a82ad8a899c01f97b594",
+    "RivetExchangeFactory": "0xe11e39e1319124ceeadfc00dbe549f259a7a429e",
+    "RivetExchangeFloor": "0x2ebe9c2bd44dd80a7fa192c596c609e4f53baa80",
+    "StakingRewards": "0xfe2d5ef655de25b0eacd73e4a38edcc1acf19576",
+    "SwapRouter": "0x405fa56e00903bfd9082c4395a3614e419f087e4",
+    "RivetExchangeBonding": "0xeb9dd76175d751c2ac1310c9bbc8bc286835dc50",
+    "PoolManager": ""
   }
 }
