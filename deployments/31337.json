@@ -1,14 +1,14 @@
 {
   "chainId": 31337,
-  "startBlock": 1,
+  "startBlock": 29427,
   "contracts": {
-    "PoolManager": "0xe7feae14799a94fa2471d7832586b9e5d2c26f14",
-    "MockERC20": "0x064e5546148da8cd66554aeb6169cd4a2237f8bd",
-    "TreasuryManager": "0xa4104f6e387f1ffcb5dfe4b10df7dfc33eaa8065",
-    "RivetExchangeFactory": "0xbea765adf002bb20bb745becfea3195e4a52fa45",
-    "RivetExchangeFloor": "0xc4c8a090a0a5a9137402d13394e5316448976a80",
-    "SwapRouter": "0x0b79b1dbea0fee69ef5ca721c2c23ebb1f9f52fb",
-    "RivetExchangeBonding": "0x7fd640531a2c45ac73a46ae9d0af8b43b091f920",
+    "PoolManager": "0xcd142f2be236c9ea9418a357f07d1e162036214c",
+    "MockERC20": "0xd93d1667c2f2e6543e560294993b7d981be27dff",
+    "TreasuryManager": "0x8d16431b8565a3343581819ac148de24bac4db13",
+    "RivetExchangeFactory": "0x89fdd881d2b448a27c02ae81634a267ed1cbc6e3",
+    "RivetExchangeFloor": "0x238fd37714872c5ac13c60ed385c5726de736a80",
+    "SwapRouter": "0xfde333a1fe34c5333006be26ba5a77a54ca72b64",
+    "RivetExchangeBonding": "0x787bed78baf8665b49153088c97f3cd9e1effe3e",
     "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99"
   }
 }
