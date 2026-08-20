@@ -5,10 +5,10 @@
     "PoolManager": "0x97fd33e8d881f5604646ca94fb54435331540d1e",
     "MockERC20": "0xd93d1667c2f2e6543e560294993b7d981be27dff",
     "TreasuryManager": "0xca4348504185cf0edbd53ead8a55c3d9aea86c1d",
-    "RivetExchangeFactory": "0xeb5a87d63f5da2870b18616ac0eed4783c6b9919",
-    "RivetExchangeFloor": "0xde3071142acffed8b907b937e7e99315c2c72a80",
-    "SwapRouter": "0x4d5b6981cc4e418eefec8fd8ad1f4ae8721d80ea",
-    "RivetExchangeBonding": "0x1ee3d481e8c0b534169261ba21fed6e04807a8f5",
+    "RivetExchangeFactory": "0x93f57519010a45d2eb8949b508fdebb34fcb900f",
+    "RivetExchangeFloor": "0x7dab30109fc2e73d2539883b5e459b7ff554ea80",
+    "SwapRouter": "0x21edcbbf28879bd90c71ef1ef8256db68af5c915",
+    "RivetExchangeBonding": "0x8de2b8139586225b02b0316d630a1ce0a30959b0",
     "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99"
   }
 }
