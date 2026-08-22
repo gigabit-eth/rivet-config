@@ -6,8 +6,8 @@
     "MockERC20": "0xd93d1667c2f2e6543e560294993b7d981be27dff",
     "TreasuryManager": "0x8ed3199116c7974c3f41dfe13be5d1608dd727f8",
     "RivetExchangeFactory": "0x21730dd6f839f4d3e13ea71a182183f190755192",
-    "RivetExchangeFloor": "0xb228e68261037f61e27fe9f91699ca02c8626a80",
-    "SwapRouter": "0xeeb1b7652b330beead56ea1b50b0c8115c16022b",
+    "RivetExchangeFloor": "0x73f73dc500ea041135ee583c4287e8862d8e2a80",
+    "SwapRouter": "0x3c66dbad46c1ce5be51a11b9e187042d2cd3eb2a",
     "RivetExchangeBonding": "0xb9a4e9be2b975dc09ba7589acab693806c86b401",
     "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99"
   }
