@@ -1,15 +1,14 @@
 {
   "chainId": 31337,
-  "startBlock": 5,
+  "startBlock": 6,
   "contracts": {
     "PoolManager": "0x97fd33e8d881f5604646ca94fb54435331540d1e",
     "MockERC20": "0xd93d1667c2f2e6543e560294993b7d981be27dff",
-    "TreasuryManagerV2": "0x72a43bbaaa5a8a924ca0bf1a7646b50020c90d26",
-    "RivetExchangeFactoryV2": "0x73583b785ca0a6dfba2f96fd11305bd567669d8c",
-    "LimitOrderReceipts": "0x75e8f87f91579e2bd5fcf9fda2e9e5dfe6e9ba38",
-    "RivetExchangeFloorV2": "0x0839a6db76af8d4c9960dac0e59c0fa0cedf6a80",
-    "SwapRouterV2": "0x562c611d9c363142d40a7820c880fbcd30dd9aad",
-    "RivetExchangeBonding": "0xb21e07eeebe1dfab8866a59a5f6b234b95bba003",
+    "TreasuryManager": "0x8ed3199116c7974c3f41dfe13be5d1608dd727f8",
+    "RivetExchangeFactory": "0xc88a485278efc140b099ad9cab0a09cce33a1bea",
+    "RivetExchangeFloor": "0xf9a8b7bd2604abd6d65a090ae252fc9416426a80",
+    "SwapRouter": "0x1f8863e5af659c187ecc8e12c5198c13a4ca8e2e",
+    "RivetExchangeBonding": "0xe097383207a1261e34872f6ceadd2d6edeeaff5a",
     "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99"
   }
 }
