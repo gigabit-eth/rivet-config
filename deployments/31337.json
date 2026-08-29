@@ -9,7 +9,7 @@
     "LimitOrderReceipts": "0x75e8f87f91579e2bd5fcf9fda2e9e5dfe6e9ba38",
     "RivetExchangeFloorV2": "0x9d720a0fa414eda42da93b74090b5ea5640f2a80",
     "SwapRouterV2": "0x87a17bffe816c227a706bd03bfc02e48d463c911",
-    "RivetExchangeBonding": "0xc5d0067e37897c4c3c370fda7e2c83a017d3eea4",
+    "RivetExchangeBondingV2": "0xc5d0067e37897c4c3c370fda7e2c83a017d3eea4",
     "RivetToken": "0xf1fa57bca1cd150ed31c4c7ff78f0d4cbe07ad99"
   }
 }
